@@ -1,0 +1,11 @@
+https://help.github.com/articles/which-remote-url-should-i-use/
+https://code.visualstudio.com/docs/editor/versioncontrol
+http://gomcine.tistory.com/entry/VS-Code%EC%97%90-Git-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-Windows
+http://gomcine.tistory.com/entry/Git-%EC%84%B8%ED%8C%85-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%A0%95%EB%A6%AC-Windows
+http://lifove.tistory.com/54
+https://medium.com/axisj/github-fork-%EC%97%90%EC%84%9C-pull-request-%EA%B9%8C%EC%A7%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-merge-a22bdd097283
+https://help.github.com/articles/about-gists/
+https://help.github.com/articles/forking-and-cloning-gists/
+http://rogerdudler.github.io/git-guide/index.ko.html
+https://backlogtool.com/git-tutorial/kr/intro/intro2_3.html
+http://learnbranch.urigit.com/
